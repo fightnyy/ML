@@ -1,2 +1,2 @@
 # ML
-## 머신러닝 해본거 올리는 창구 입니다
+* This Repository is for Practice ML and DL
